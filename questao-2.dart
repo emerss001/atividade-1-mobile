@@ -1,4 +1,4 @@
-import 'questao-1.dart';
+import 'questao-1.dart' show produtos;
 
 void main() {
   const imposto = 0.15;

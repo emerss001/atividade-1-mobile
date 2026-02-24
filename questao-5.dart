@@ -1,4 +1,4 @@
-import 'questao-4.dart';
+import 'questao-4.dart' show Usuario;
 
 void main() {
   var usuarioConvidado = Usuario.convidado();
